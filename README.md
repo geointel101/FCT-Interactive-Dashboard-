@@ -2,9 +2,9 @@
 
 An interactive, vector-tiled web map of the Federal Capital Territory (FCT), Abuja, built on authoritative ArcGIS Pro data and rendered with MapLibre GL JS. The dashboard brings together administrative boundaries, transport infrastructure, land use, social facilities, and building footprints in a single, fast-loading interface designed for planning and infrastructure monitoring use cases.
 
-![Zoomed out](./Screenshot/dashboard_zoom_out.PNG)
+![Zoomed out](./Screenshot/dashboard-out.PNG)
 
-![Zoomed in](./Screenshot/dashboard_zoom_in.PNG)
+![Zoomed in](./Screenshot/zoom-in.PNG)
 
 **[View Live Map](#)** · https://geointel101.github.io/FCT-Interactive-Dashboard-/fct-smart-city-dashboard(3)/
 
